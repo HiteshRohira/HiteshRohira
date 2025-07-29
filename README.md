@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hitesh Rohira</h1>
-<h3 align="center">A self-taught frontend developer from India passionate about building quality interfaces.</h3>
+<h3 align="center">A software developer from India passionate about building quality interfaces.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiteshrohira&label=Profile%20views&color=0e75b6&style=flat" alt="hiteshrohira" /> </p>
 
