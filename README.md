@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiteshrohira&label=Profile%20views&color=0e75b6&style=flat" alt="hiteshrohira" /> </p>
 
-- 🌱 I’m currently learning **tRPC**
+- 🌱 I’m currently learning **Go**
 
 - 👨‍💻 All of my projects are available at [https://hiteshrohira.vercel.app/](https://hiteshrohira.vercel.app/)
 
