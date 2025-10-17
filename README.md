@@ -13,6 +13,10 @@
 
 - 📄 Know about my experiences [here](https://storage.rxresu.me/cm6alre460sym7bnnkudeozb0/resumes/hitesh-rohira.pdf)
 
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/b0128b0b-52b1-4c2e-8a30-4b52d8d182a9/thumbnail" >
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://x.com/HiteshRohira15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hiteshrohira" height="30" width="40" /></a>
