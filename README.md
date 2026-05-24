@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hitesh Rohira</h1>
-<h3 align="center">A software developer from India passionate about building quality interfaces.</h3>
+<h3 align="center">Figuring out people and computers</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiteshrohira&label=Profile%20views&color=0e75b6&style=flat" alt="hiteshrohira" /> </p>
 
@@ -13,9 +13,6 @@
 
 - 📄 Know about my experiences [here](https://storage.rxresu.me/cm6alre460sym7bnnkudeozb0/resumes/hitesh-rohira.pdf)
 
-<p align="center">
-  <img src="https://api.boot.dev/v1/users/public/b0128b0b-52b1-4c2e-8a30-4b52d8d182a9/thumbnail" >
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
