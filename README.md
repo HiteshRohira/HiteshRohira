@@ -6,6 +6,7 @@ I build desktop apps in Rust, realtime web games, and developer tools for AI age
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| **[Glass TV](https://github.com/HiteshRohira/GlassLauncherTV)** | A fast, quiet Android TV home screen with AirPlay built in: iPhone and Mac can mirror, play video and stream music to the TV, and any phone becomes a remote from a page the TV hosts. No ads, accounts or telemetry. | Java · Kotlin · C |
 | **[ReVLC](https://github.com/HiteshRohira/ReVLC)** · [site](https://revlc.vercel.app) | A modern, lightweight media player built on libVLC, working toward full VLC feature parity with a cleaner, faster UI. Alpha builds available. | Rust · Tauri · Svelte |
 | **[Farebi](https://github.com/HiteshRohira/farebi)** · [play](https://farebi.vercel.app) | Realtime party games for solo play or 3–20 player rooms: *Who's That?*, *Truth or Lie*, and *Impostor*. Share a six-character code and play. | TypeScript |
 | **[heple](https://github.com/HiteshRohira/heple)** · [npm](https://www.npmjs.com/package/heple) | CLI that turns a structured JSON plan into a well-designed, self-contained HTML page. Lets coding agents produce good-looking plans with far fewer tokens. | TypeScript · Node |
