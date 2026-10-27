@@ -1,6 +1,6 @@
 ### Hi, I'm Hitesh 👋
 
-I build desktop apps in Rust, realtime web games, and developer tools for AI agents.
+I build web apps, desktop apps, games, CLI tools and everything else
 
 ## 🚀 Projects (2025–2026)
 
