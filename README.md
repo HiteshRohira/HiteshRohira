@@ -17,6 +17,7 @@ I build web apps, desktop apps, games, CLI tools and everything else
 
 - **[zed-industries/zed](https://github.com/zed-industries/zed/pull/52234)**: Fixed the blank git diff view on Windows when working in a subfolder
 - **[anmolkapil/plexo](https://github.com/anmolkapil/plexo/pull/6)**: Kept downloads across app relaunches so they can resume
+- **[tw93/Mole](https://github.com/tw93/Mole)**: Added T3 Code support, covering build output in worktrees ([#1924](https://github.com/tw93/Mole/pull/1924)) and preview browser caches ([#1925](https://github.com/tw93/Mole/pull/1925))
 
 ---
 
