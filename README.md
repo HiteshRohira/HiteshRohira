@@ -10,7 +10,7 @@ I build web apps, desktop apps, games, CLI tools and everything else
 | **[Mirage](https://github.com/HiteshRohira/Mirage)** | A fast, quiet Android TV home screen with AirPlay built in: iPhone and Mac can mirror, play video and stream music to the TV, and any phone becomes a remote from a page the TV hosts. No ads, accounts or telemetry. | Java · Kotlin · C |
 | **[Mettro](https://github.com/HiteshRohira/mettro)** | A fast, modern metro companion for iOS, starting with Delhi Metro. Save a trip once, then take it in one tap: it works out which way you're going from where you're standing. | TypeScript · React Native · Expo |
 | **[Farebi](https://github.com/HiteshRohira/farebi)** · [play](https://farebi.vercel.app) | Realtime party games for solo play or 3–20 player rooms: *Who's That?*, *Truth or Lie*, and *Impostor*. Share a six-character code and play. | TypeScript |
-| **[heple](https://github.com/HiteshRohira/heple)** · [npm](https://www.npmjs.com/package/heple) | CLI that turns a structured JSON plan into a well-designed, self-contained HTML page. Lets coding agents produce good-looking plans with far fewer tokens. | TypeScript · Node |
+| **[heple](https://github.com/HiteshRohira/heple)** · [Platform demo](https://heple.vercel.app/demo?view=overview&plan=rollout) · [npm](https://www.npmjs.com/package/heple) | CLI that turns a structured JSON plan into a well-designed, self-contained HTML page. Lets coding agents produce good-looking plans with far fewer tokens. | TypeScript · Node |
 | **[OpenDraw](https://github.com/HiteshRohira/opendraw)** · [site](https://opendraw.vercel.app) | Excalidraw with multiple saved drawings, autosave, and local browser storage. | TypeScript · React |
 
 ## 🤝 Open source contributions
